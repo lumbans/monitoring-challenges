@@ -1,7 +1,7 @@
 # Log parsing challenges
 =================================================
 
-Clone this repository to solve the log parsing, in this repo there's a file <strong>sample.log </strong></br>
+Clone this repository to solve the problem, in this repo there's a file <strong>sample.log </strong></br>
 The challenges is to parse log using GROK and put on logstash configurations file.
 
 Output should be :
