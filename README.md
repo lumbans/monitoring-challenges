@@ -1,7 +1,9 @@
 # Log parsing challenges
 =================================================
+
 Clone this repository to solve the log parsing, in this repo there's a file sample.log
 The challenges is to parse log using GROK and put on logstash configurations file.
+
 Output should be :
 
 Date : 2017-08-17 07:37:40,874
