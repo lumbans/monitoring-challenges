@@ -16,4 +16,4 @@ Msisdn : 62812xxxxxxxx</br>
 CommandId : PreValidationConfirmation</br>
 
 
-If any question, please don't hesitate to contact me at lumban_sopian[at]linkaja[dot]id
+If any question, please don't hesitate to contact me at lumban_sopian[at]msn[dot]com
