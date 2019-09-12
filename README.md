@@ -12,7 +12,7 @@ ServiceName: wallet</br>
 channelSessionId : 10100000000787941184</br>
 Remark : BillPayment</br>
 OriginatorConversationID : ASSTR0592I062877817797781566347844650</br>
-Msisdn : 6282122428287</br>
+Msisdn : 62812xxxxxxxx</br>
 CommandId : PreValidationConfirmation</br>
 
 
